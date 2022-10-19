@@ -1,0 +1,13 @@
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\bin\Debug\netcoreapp3.1\spel21an.exe
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\bin\Debug\netcoreapp3.1\spel21an.deps.json
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\bin\Debug\netcoreapp3.1\spel21an.runtimeconfig.json
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\bin\Debug\netcoreapp3.1\spel21an.runtimeconfig.dev.json
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\bin\Debug\netcoreapp3.1\spel21an.dll
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\bin\Debug\netcoreapp3.1\spel21an.pdb
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\obj\Debug\netcoreapp3.1\spel21an.csprojAssemblyReference.cache
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\obj\Debug\netcoreapp3.1\spel21an.AssemblyInfoInputs.cache
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\obj\Debug\netcoreapp3.1\spel21an.AssemblyInfo.cs
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\obj\Debug\netcoreapp3.1\spel21an.csproj.CoreCompileInputs.cache
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\obj\Debug\netcoreapp3.1\spel21an.dll
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\obj\Debug\netcoreapp3.1\spel21an.pdb
+C:\Users\Thoms\OneDrive\Documents\Visual Studio 2019\Projects\spel21an\spel21an\obj\Debug\netcoreapp3.1\spel21an.genruntimeconfig.cache
